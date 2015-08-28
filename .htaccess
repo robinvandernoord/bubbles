@@ -1,0 +1,2 @@
+ErrorDocument 404 /bubbles/index.html
+ErrorDocument 403 /bubbles/index.html
